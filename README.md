@@ -1,3 +1,2 @@
-Joo Young Oh, M.E., R.T., Researcher,
-Department of Radiology and Research Institute of Radiology,
-Asan Medical Center, Asan Institute for Life Science, University of Ulsan College of Medicine
+Joo Young Oh, M.E., R.T., Medical Physicist
+Department of Radiation Oncology, Yonsei Cancer Center, Seoul, South Korea
